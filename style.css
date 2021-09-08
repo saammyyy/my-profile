@@ -1,0 +1,63 @@
+body {
+	background: #D6D2C4;
+color: black;
+}
+
+h1{
+	color: darkred;
+} 
+
+body {
+	font-family: arial,serif;
+	}
+head {
+	font-family: arial,serif;
+}
+
+a{
+	text-decoration: none;
+	color: indianred;
+}
+
+a:hover {
+	color:  darkblue;
+}
+h1{
+	font-size: 50px;
+	letter-spacing: 5px;
+}
+
+h2 {
+	color: darkblue;
+}
+img-circle{
+	border-radius: 50%;
+}
+
+.shadowed {
+	box-shadow: 5px 5px 3px darkgrey;
+}
+container {
+	width: 800px;
+	margin: o auto;
+	text-align: center;
+}
+
+.card-white
+ {
+	background-color: lightblue;
+	padding: 90px;
+	margin: 70px 0;
+	border border-radius: 100px;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 1);
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+	text-align: ;
+}
+
+.carte-red{
+	background-color: lightblue;
+}
